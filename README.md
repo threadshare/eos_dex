@@ -9,7 +9,7 @@ EOS的去中心化交易所（合约、前端、后端）
 欢迎搭建一起参与构建。（目前没有提交规范，按照git工作流提交即可，之后有时间会在wiki上完善文档）
 
 ## 前端 (WIP)
-仓库地址  [eos_dex前端](https://github.com/GiggleAll/eos_dex_front_end)
+仓库地址:  [eos_dex前端](https://github.com/GiggleAll/eos_dex_front_end)
 
 ### 计划 (wiki)
 1. 选一个前端交易所界面（还没找， 如果有的话）
@@ -17,14 +17,14 @@ EOS的去中心化交易所（合约、前端、后端）
 3. 保证功能正常使用
 
 ## 服务端 (WIP)
-仓库地址 [eos_dex服务端](https://github.com/GiggleAll/eos_dex_service)
+仓库地址: [eos_dex服务端](https://github.com/GiggleAll/eos_dex_service)
 
 ### 计划 (wiki)
 1. 初步计划是选用python作为开发语言，之后可能会更改，eosjs的兼容性更高（但是我python用的最熟，js一般）
 2. 功能模块划分(WIP)
 
 ## 合约地址（v0.1.0）
-仓库地址 [exchange](https://github.com/GiggleAll/exchange)
+仓库地址: [exchange](https://github.com/GiggleAll/exchange)
 
 ### 计划（wiki）
 1. 完善`exchange`合约，改bug，修复逻辑漏洞
